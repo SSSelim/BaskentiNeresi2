@@ -1,5 +1,4 @@
-
-Veritabanı baglantısı kullanilacagi icin SQLite driveri projeye dahil edilmeli oncelikle.
+Veritabanı baglantısı kullanildiği icin SQLite driveri projeye dahil edilmeli.
 
 https://bitbucket.org/xerial/sqlite-jdbc
 
@@ -14,7 +13,7 @@ Proje üzerine bir blog yazısı ve ekran görüntüleri :
 
 http://www.selimssevgi.com/2013/06/22/baskenti-neresi-java/
 
-** Programı bu olduğu gibi kullanmak mümkün olmayacaktır farkındayım.
+** Programı bu sekilde olduğu gibi kullanmak mümkün olmayacaktır farkındayım.
 Ancak kodlar incelenirse başlangıc seviyesi için faydalı olabilir.
 
 22 June 14 //
